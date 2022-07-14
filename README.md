@@ -1,5 +1,7 @@
 # project_2_GPS
 
+# 웹사이트 연결
+
 **메인 페이지**
   <br/> http://deruline.dothome.co.kr/project_gps/
   <br/> 반응형 웹앱으로 개발되었으며, App 기반에 최적화 되었습니다.
